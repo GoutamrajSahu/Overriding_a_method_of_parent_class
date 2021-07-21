@@ -35,7 +35,7 @@ public class Main {
 }
 
 
-///-------------------------------Deep Understanding--------------------------------///
+///-------------------------------Below code is for better Understanding--------------------------------///
 
 
 //package com.company;
